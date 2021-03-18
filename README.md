@@ -1,7 +1,7 @@
 # school-assistant
 A school app assistant to help with organizing files and manage college stuff
 
-##Ideas and Features
+## Ideas and Features
 [ ] Manager for subject folders
   [ ] Capable of handling a defined structure
   [ ] Should be able to create and interact with folders and files
